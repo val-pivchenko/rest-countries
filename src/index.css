@@ -179,7 +179,7 @@
   align-items: center;
 }
 
-.card-container:hover {
+.country-card:hover {
   cursor: pointer;
 }
 
